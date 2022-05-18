@@ -1,2 +1,2 @@
 # FoldMe
- FoldMe is a design pattern/guidline used for the Fold CSS Framework, but not only!
+ FoldMe is a design guideline used in the Fold CSS Framework, but it's not just for that!
